@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-stackoverflow"
+    }
+  },
+  "defaultProject": "test-stackoverflow",
+  "cli": {
+    "analytics": "68dbea5d-af60-4daf-8e8f-2c0abb3e19b6"
+  }
 }
